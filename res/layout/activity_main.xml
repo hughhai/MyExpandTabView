@@ -1,0 +1,20 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <com.example.expantabview.view.ExpanTabView
+        android:id="@+id/expandtabview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </com.example.expantabview.view.ExpanTabView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="@string/hello_world"
+        android:textColor="#000000" />
+
+</LinearLayout>

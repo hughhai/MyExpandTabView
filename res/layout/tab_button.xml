@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ToggleButton xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" 
+    android:drawableRight="@drawable/expand_status"
+    android:singleLine="true"
+    android:layout_weight="1"
+    android:textOn="@null"
+    android:textOff="@null"
+    android:gravity="center"
+    android:textColor="@color/expantab_textcolor"
+    android:background="#FFFFFF">
+    
+
+</ToggleButton>
