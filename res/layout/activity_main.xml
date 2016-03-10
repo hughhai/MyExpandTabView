@@ -4,11 +4,11 @@
     android:layout_height="match_parent"
     android:orientation="vertical" >
 
-    <com.example.expantabview.view.ExpanTabView
+    <com.example.expantabview.view.ExpandTabView
         android:id="@+id/expandtabview"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" >
-    </com.example.expantabview.view.ExpanTabView>
+    </com.example.expantabview.view.ExpandTabView>
 
     <TextView
         android:layout_width="match_parent"

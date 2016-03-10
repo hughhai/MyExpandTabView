@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <drawable name="popuwindow_bg">#66000000</drawable>
+
+    <color name="white">#FFFFFF</color>
+
+</resources>
